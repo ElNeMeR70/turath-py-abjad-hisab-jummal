@@ -1,0 +1,7 @@
+[project]
+name = "turath-py-abjad-hisab-jummal"
+version = "1.0.0"
+description = "Mashriqi & Maghribi Abjad Numeral & Chronogram (Hisab Al-Jummal) Calculator (حاسبة حساب الجُمّل المشرقي والمغربي والتأريخ الشعري)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
